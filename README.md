@@ -1,9 +1,10 @@
 ## EduKids :books:
 
 #### Ideia do projeto :bulb:
-EduKids é um projeto voltado para ensino educacional para crianças de 8 a 10 anos.
+EduKids é um projeto voltado para ensino educacional para crianças.
 
 #### Quais dados são necessários :computer:
-Acesso à um banco de dados que contenha diversas atividades para diferentes níveis educacionais.
+Quanto tempo crianças de variadas idades passam na internet diariamente, e quanto desse tempo poderia ser aproveitado de uma maneira mais eficiente.
 
-#### Qual a ideia de dashboard p/ agregar e visualizar dados
+#### Qual a ideia de dashboard p/ agregar e visualizar dados :bar_chart:
+O gráfico utilizado para demonstrar os dados será o gráfico barras.
