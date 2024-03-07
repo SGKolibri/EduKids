@@ -1,2 +1,2 @@
 # EduKids
-Projeto Integrador
+Projeto Integrador EduKids
